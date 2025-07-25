@@ -19,7 +19,7 @@ I'm **Vipin Kumar**, a passionate MERN developer who loves building fast, scalab
 
 
 ## 🌐 Live Portfolio  
-👉 [View My Portfolio]([(https://csevipinmenon.github.io/vipin_portfolio/)]))
+👉 [View My Portfolio]([(https://csevipinmenon.github.io/vipin_portfolio/)])
 
 ## Contact  
 - 📧 **vipinmemon8123@email.com**  
