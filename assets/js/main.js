@@ -63,9 +63,9 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 var typed = new Typed(".multiple-text", {
   strings: [
-    "Full-Stack",
     "MERN Stack ",
     "DSA with C++",
+      "AI & ML",
     "Node.js Backend",
     "Python with MySQL",
     "Auth0 & JWT"
