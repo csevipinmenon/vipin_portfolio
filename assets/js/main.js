@@ -63,14 +63,14 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 var typed = new Typed(".multiple-text", {
   strings: [
-    "Full-Stack Developer",
-    "MERN-Stack Developer",
+    "Full Stack Developer",
+    "MERN Developer",
     "Frontend Developer",
     "Backend Developer",
     "Data Scientist",
-    "Machine Learning Engg.",
-    "Deep Learning Engineer",
-    "NLP Engineer",
+    "ML Engg.",
+    "Deep Learning Engg.",
+    "NLP Engg.",
     
   ],
   typeSpeed: 90,
