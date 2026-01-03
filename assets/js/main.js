@@ -63,15 +63,19 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 var typed = new Typed(".multiple-text", {
   strings: [
-    "Full-Stack",
-    "MERN Stack ",
-    "DSA with C++",
-    "Node.js Backend",
-    "Python with MySQL",
-    "Auth0 & JWT"
+    "Full-Stack Developer",
+    "MERN-Stack Developer",
+    "Frontend Developer",
+    "Backend Developer",
+    "Data Scientist",
+    "Machine Learning Engg.",
+    "Deep Learning Engineer",
+    "NLP Engineer",
+    
   ],
-  typeSpeed: 100,
-  backSpeed: 50,
-  backDelay: 1500,
+  typeSpeed: 90,
+  backSpeed: 45,
+  backDelay: 1400,
   loop: true
 });
+
